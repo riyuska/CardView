@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47D8BB</color>
+    <color name="colorPrimary2">#07FFB0</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPertama">#A20606</color>
+    <color name="colorKedua">#1A89BB</color>
+</resources>
